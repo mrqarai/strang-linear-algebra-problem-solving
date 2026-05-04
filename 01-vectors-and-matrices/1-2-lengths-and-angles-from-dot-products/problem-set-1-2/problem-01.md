@@ -1,6 +1,9 @@
 # Problem 1 – Extremal Values of ‖v − w‖ and v · w
 
 ## Problem
+|v - w|^2 = 5^2 + 3^2 - 2(15 cos θ)
+          = 25 + 9 - 30 cos θ
+          = 34 - 30 cos θ.
 
 Given vectors \(v\) and \(w\) in \(\mathbb{R}^n\) with
 \[
