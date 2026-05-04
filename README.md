@@ -1,19 +1,31 @@
-# Strang Linear Algebra – Problem Solving Journey
+# Linear Algebra Problem Journal
 
-This repository contains my solutions, insights, and geometric interpretations of problems
-from Gilbert Strang's *Introduction to Linear Algebra*.
+A curated collection of selected problems and solutions from Gilbert Strang’s _Introduction to Linear Algebra_, written with a focus on clarity, geometric insight, and conceptual depth.
+
+## Purpose
+
+This repository documents carefully chosen linear algebra problems that highlight:
+
+- core definitions and theorems
+- geometric intuition
+- problem-solving technique
+- generalization beyond the original exercise
+
+## Philosophy
+
+Not every exercise is included.  
+Only problems with strong conceptual value, elegant solutions, or significant teaching value are documented.
 
 ## Structure
 
-- Problems grouped by topic (vectors, matrices, orthogonality, etc.)
-- Each problem file includes:
-  - Problem statement
-  - Detailed solution
-  - Geometric or conceptual insight
-  - (Optional) generalization or computational experiment
+Each chapter contains section folders, and each section contains one or more problem files.
 
-## Goals
+Example:
 
-- Develop deep geometric intuition for linear algebra
-- Practice rigorous problem solving
-- Build a public record of mathematical thinking
+```text
+01-vectors-and-matrices/
+└── 1-2-lengths-and-angles-from-dot-products/
+└── problem-set-1-2/
+├── problem-01.md
+└── problem-02.md
+```
